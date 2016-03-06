@@ -7,13 +7,13 @@ p {
 	text-align: center;
 }
 
+div
+
 img {
-	display: block;
-	left-margin: auto;
-	right-margin: auto;
 	max-width: 100%;
 	width: auto;
 	max-height: 100%;
 	height: auto;
 	border-radius: 8px;
+	text-align: center;
 }
