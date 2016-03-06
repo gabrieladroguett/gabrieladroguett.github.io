@@ -7,14 +7,11 @@ p {
 	text-align: center;
 }
 
-img {
-	border-radius: 15%;
-}
-
 .figura {
 	max-width: 100%;
 	width: auto;
 	max-height: 100%;
-	max-height
+	height: auto;
+	border-radius: 60%;
 	text-align: center;
 }
